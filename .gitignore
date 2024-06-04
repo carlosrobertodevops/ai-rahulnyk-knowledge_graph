@@ -1,0 +1,4 @@
+*.DS_Store
+*.lock
+*.git
+.DS_Store
