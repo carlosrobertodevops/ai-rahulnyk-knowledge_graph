@@ -1,3 +1,4 @@
+
 # Convert any Corpus of Text into a *Graph of Knowledge*
 
 ![Knowledge Graph Banner](./assets/KG_banner.png)
@@ -24,8 +25,6 @@ Step 6 is purely optional, but it has certain artistic gratification associated 
 Once the Knowledge Graph (KG) is build, we can use it for many purposes. We can run graph algorithms and calculate centralities of any node, to understand how important a concept (node) is to this body of work. We can calculate communities to bunch the concepts together to better analyse the text. We can understand the connectedness between seemingly disconnected concepts. 
 
 The best of all, we can achieve **Graph Retrieval Augmented Generation (GRAG)** and chat with our text in a much more profound way using Graph as a retriever. This is a new and improved version of **Retrieval Augmented Generation (RAG)** where we use a vectory db as a retriever to chat with our documents. 
-
----
 
 ## This project
 Here I have created a simple knowledge graph from a PDF document. The process I follow here is very similar to what is outlined in the above sections, with some simplifications.
@@ -57,7 +56,6 @@ Additional it also calculates the Degree of each node, and Communities of nodes,
 
 
 
----
 ## Tech Stack
 
 ### Mistral 7B
