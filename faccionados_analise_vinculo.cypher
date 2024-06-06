@@ -81,14 +81,9 @@ MATCH(funcao{funcaoID:funcao.funcaoID})
 MATCH(bairro{bairroID:bairro.bairroID})
 MATCH(cidade{cidadeID:cidade.cidadeID})
 MATCH(uf{ufID:uf.ufID})
-WHERE faccao.faccaoID=faccionado.faccaoID AND
-    funcao.funcaoID=faccionado.funcaoID AND
-    bairro.bairroID=faccionado.bairroID AND
-    cidade.cidadeID=faccionado.cidadeID AND
-    uf.ufID=faccionado.ufID
+WHERE faccao.faccaoID=faccionado.faccaoID AND funcao.funcaoID=faccionado.funcaoID AND bairro.bairroID=faccionado.bairroID AND cidade.cidadeID=faccionado.cidadeID AND uf.ufID=faccionado.ufID
 
-MERGE (bairro)-[:`DO BAIRRO`]->(faccionado)<-[:`DA FACÇÃO`]->(faccao)
-MERGE (funcao)-[:`COM A FUNCAO`]->(faccionado)
-MERGE (cidade)-[:`DA CIDADE`]->(faccionado)
+MERGE (bairro)-[:`DO BAIRRO`]->(faccionado)<-[:`DA FACÇÃO`]-(faccao)
+MERGE (funcao)-[:`COM A FUNCAO`]->(faccionado)<-[:`DA CIDADE`]-(cidade)
 MERGE (uf)-[:`DA UF`]->(faccionado)
 RETURN *
