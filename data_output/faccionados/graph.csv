@@ -1,134 +1,155 @@
 node_1|node_2|edge|chunk_id
-kayo nascimento de magalhães|cabra/ 99|located in|d151b934ab1f47ad928d70f924612e9b
-josé mariano dos santos|rato|related to|d151b934ab1f47ad928d70f924612e9b
-givaldo barbosa de frança|quinzinho|related to|d151b934ab1f47ad928d70f924612e9b
-josé erivaldo da paz|índio|related to|d151b934ab1f47ad928d70f924612e9b
-lucas manoel da silva|projeto|related to|d151b934ab1f47ad928d70f924612e9b
-victor emanuel oliveira dos santos|vulgo da cruz|related to|d151b934ab1f47ad928d70f924612e9b
-gilvanio marcos oliveira santos|gil|related to|d151b934ab1f47ad928d70f924612e9b
-derivaldo da silva santos|deri|related to|d151b934ab1f47ad928d70f924612e9b
-darlan darlan parceira|scooby|related to|d151b934ab1f47ad928d70f924612e9b
-felipe vital dos santos|piabas- jacintinho|located in|d151b934ab1f47ad928d70f924612e9b
-thiago vital de oliveira santos|piabas- jacintinho|located in|d151b934ab1f47ad928d70f924612e9b
-jefferson melo rosa da silva|madimbu, bu|related to|d151b934ab1f47ad928d70f924612e9b
-lucas cabral lopes|cabral/l7/l9|located in|d151b934ab1f47ad928d70f924612e9b
-jose emerson da silva|nem catenga / jovem|related to|d151b934ab1f47ad928d70f924612e9b
-tatiane dos santos faustino|maceió i|located in|d151b934ab1f47ad928d70f924612e9b
-josé emerson da silva|nem catenga / jovem|related to|d151b934ab1f47ad928d70f924612e9b
-matheus silva cândido de melo|teteu/tartaruga|related to|d151b934ab1f47ad928d70f924612e9b
-viagem dos pobres i, ii e ii||adjacency|d151b934ab1f47ad928d70f924612e9b
-escadinha (virgem dos pobres i)|levada, virgem dos pobres i, ii e iii|ESCADINHA (VIRGEM DOS POBRES I) and LEVADA, VIRGEM DOS POBRES I, II E III are related as both represent locations associated with social programs for the poor.|9d937d1d32fe4fd4a30bc4329d9e7437
-escadinha (virgem dos pobres i)|rua santo antonio|ESCADINHA (VIRGEM DOS POBRES I) and RUA SANTO ANTONIO are related as both are places mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-marechal deodoro|rua santo antonio|MARECHAL DEODORO and RUA SANTO ANTONIO are related as both are places mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-piabas- jacintinho|piabas- jacintinho|PIABAS- JACINTINHO is self-related as both are places mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-jardineira e adjascencias|pcc|JARDINEIRA E ADJASCENCIAS and PCC are related as both represent organizations mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-clima bom|clima bom|CLIMA BOM is self-related as both are weather conditions mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-village campestre|village campestre ii|VILLAGE CAMPESTRE and VILLAGE CAMPESTRE II are related as both represent locations associated with social programs for the poor.|9d937d1d32fe4fd4a30bc4329d9e7437
-alex bruno soares de mendonca|leleco|ALEX BRUNO SOARES DE MENDONCA and LELECO are related as both are individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-renato emanuel de melo|padre|RENATO EMANUEL DE MELO and PADRE are related as both represent occupations or roles of individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-gerente|ni|GERENTE and NI are related as both represent positions or titles held by individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-soldado do tráfico|alisson dos santos|SOLDADO DO TRÁFICO and ALISSON DOS SANTOS are related as both represent occupations or roles of individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-chefe/líder|maria esanikessia pereira de souza|CHEFE/LÍDER and MARIA ESANIKESSIA PEREIRA DE SOUZA are related as both represent positions or titles held by individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-leleco|alex bruno soares de mendonca|LELECO and ALEX BRUNO SOARES DE MENDONCA are related as both represent individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-padre|renato emanuel de melo|PADRE and RENATO EMANUEL DE MELO are related as both represent occupations or roles of individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-chacal|claudemir lucas peixoto venâncio|CHACAL and CLAUDEMIR LUCAS PEIXOTO VENÂNCIO are related as both represent individuals mentioned in the context.|9d937d1d32fe4fd4a30bc4329d9e7437
-ailton da silva filho|favela dandara|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-carlos andré dos santos|favela dandara|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-taniel bezerra da silva|cidade sorriso i|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-denilson ferreira barbosa|vergel do lago, levida e ponta grossa|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-jadilson ferreira barbosa|vergel do lago, levida e ponta grossa|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-jessica tammyres viana leite|vergel do lago, levida e ponta grossa|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-nayran araújo guerreiro de jesus|prado|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-michel emerson da silva|levada e prado|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-josé ronaldo da silva santos|marechal deodoro|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-maxwell horácio dos santos|marechal deodoro|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-edilson silva dos santos|residencial recanto da ilha - massagueira/marechal deodoro|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-alan diego da conceição|conjunto barnabé toledo - marechal deodoro|resides in or associated with|5c25cf2f9d26439d990bfd004c0c1ef5
-rogemerson silva dos santos|marechal deodoro|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-leonardo da silva santos rodrigues|marechal deodoro|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-ana thalita da silva|massagueira - marechal deodoro|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-renan gomes da silva|clima bom (principalmente rosane collor e colibri)|related to or involved in|5c25cf2f9d26439d990bfd004c0c1ef5
-massagueira|marechal deodoro|located in or near each other|b46a4c0a42a74be5bce334fe4c3218a8
-renan gomes da silva|neutro|has the quality of being neutral or without value judgment|b46a4c0a42a74be5bce334fe4c3218a8
-neutro|vendedor|can have a selling role without being biased or opinionated|b46a4c0a42a74be5bce334fe4c3218a8
-clima bom|principalmente rosane collor e colibri|is usually favorable for rosanes and colibri birds|b46a4c0a42a74be5bce334fe4c3218a8
-willamys dos santos almeida|ni|denotes absence or negation of the following term|b46a4c0a42a74be5bce334fe4c3218a8
-ni|soldado do tráfico|denotes absence or negation of a person involved in trafficking activities|b46a4c0a42a74be5bce334fe4c3218a8
-marcos antonio da silva carapeba|ni|denotes absence or negation of the following term|b46a4c0a42a74be5bce334fe4c3218a8
-denison alexandre matos|playboy|is commonly associated with playboys|b46a4c0a42a74be5bce334fe4c3218a8
-anderson luan silva dos santos|ni|denotes absence or negation of the following term|b46a4c0a42a74be5bce334fe4c3218a8
-talisson gabriel costa da silva|g2|is commonly associated with the character g2 in a specific context|b46a4c0a42a74be5bce334fe4c3218a8
-andre lucas dos santos silva|lc|is commonly associated with the person lc in a specific context|b46a4c0a42a74be5bce334fe4c3218a8
-daniel cabral da silva|baba rala|is commonly associated with babara rala in this case|b46a4c0a42a74be5bce334fe4c3218a8
-rodrigo da conceição|mago|is commonly associated with the person mago|b46a4c0a42a74be5bce334fe4c3218a8
-walysson de oliveira silva|teto|is commonly associated with teto in this case|b46a4c0a42a74be5bce334fe4c3218a8
-ismael dos santos|ni|denotes absence or negation of the following term|b46a4c0a42a74be5bce334fe4c3218a8
-alexsandro dos santos|ni|denotes absence or negation of the following term|b46a4c0a42a74be5bce334fe4c3218a8
-gabriel gomes da silva|jacaré|is commonly associated with jacaré in this case|b46a4c0a42a74be5bce334fe4c3218a8
-clima bom|principalmente rosane collor e colibri|is usually favorable for rosanes and colibri birds|b46a4c0a42a74be5bce334fe4c3218a8
-ni|gabriel gomes da silva|soldado do tráfico|18348570fc7d403e9cf4c5e62693d7b3
-ni|wilson luis dos santos da silva|soldado do tráfico|18348570fc7d403e9cf4c5e62693d7b3
-conjunto barnabé toledo - marechal de odoró|rua estivã|localização física de um conjunto ou de uma rua|18348570fc7d403e9cf4c5e62693d7b3
-marechal de odoró|igor ribeiro da silva|chefe/líder|18348570fc7d403e9cf4c5e62693d7b3
-marechal de odoró|risca faca, gruta, são bentinho no município de maragogi e japaratinga|localização física de lugares específicos|18348570fc7d403e9cf4c5e62693d7b3
-ni|melquisedec estevão dos santos|soldado do tráfico|18348570fc7d403e9cf4c5e62693d7b3
-barra grande - maragogi|povoado barra grande - maragogi|localização física de povoados ou bairros específicos|18348570fc7d403e9cf4c5e62693d7b3
-barra grande - maragogi|arabidalas rodrigues da silva|vendedor|18348570fc7d403e9cf4c5e62693d7b3
-praça sinibu|karolayne kethlín dos santos|vendedor|18348570fc7d403e9cf4c5e62693d7b3
-conj joaquim leão, vergel do lago|leanderson de araújo nunes|vendedor|18348570fc7d403e9cf4c5e62693d7b3
-prado (ouricuri)|charles miller galvão cavaleiro|vendedor|18348570fc7d403e9cf4c5e62693d7b3
-marcelino ramos|carlos alexandre araújo cirilo|abacaxi|18348570fc7d403e9cf4c5e62693d7b3
-maceió e joaquim gomes|olivival rozendo da silva filho|tabuleiro|18348570fc7d403e9cf4c5e62693d7b3
-al|maria josé galvão cavaleiro|cv|18348570fc7d403e9cf4c5e62693d7b3
-al|maceió e joaquim gomes|geographic location or administrative division that is a part of AL and contains MACEIÓ E JOAQUIM GOMES|39de4cbc925e44d1b44dbecf1d2104fd
-praia do francês|al|geographic location or administrative division that is a part of AL and contains PRAIA DO FRANCÊS|39de4cbc925e44d1b44dbecf1d2104fd
-cv|soldado do tráfico|professional title or occupation that is held by a person named in the context, such as CARRAPICHO and ANDSON BARBOSA DE LIMA|39de4cbc925e44d1b44dbecf1d2104fd
-cv|gerente|professional title or occupation that is held by a person named in the context, such as RAFEL VIANA DA SILVA and DEYVID NILTON COELHO VARGAS|39de4cbc925e44d1b44dbecf1d2104fd
-cv|chefe/líder|professional title or occupation that is held by a person named in the context, such as PEDRO SOARES MARQUES and EFRAIM SILVA DE OLIVEIRA|39de4cbc925e44d1b44dbecf1d2104fd
-cv|distribuidor/logística|professional title or occupation that is held by a person named in the context, such as ITALA MARIA DE JESUS SILVA|39de4cbc925e44d1b44dbecf1d2104fd
-pe|pe, colônia leopoldina - al, xexéu - pe e demais cidades da zona da mata sul de pernambuco.|geographic location or administrative division that is a part of the regions mentioned in the context|39de4cbc925e44d1b44dbecf1d2104fd
-maceió|al|geographic location or administrative division that is a part of AL and contains MACEIÓ|39de4cbc925e44d1b44dbecf1d2104fd
-pernambuco e alagoas|josivaldo vicente da silva|geographic region or administrative division that is a part of the location mentioned in the context and contains JOSIVALDO VICENTE DA SILVA|39de4cbc925e44d1b44dbecf1d2104fd
-conjunto são caetano|residencial maceió i / sítio são jorge|geographic location or administrative division that is a part of the locations mentioned in the context|39de4cbc925e44d1b44dbecf1d2104fd
-baiano|alan ângelo da silva|ethnicity, nationality or cultural identity that is associated with a person named in the context|39de4cbc925e44d1b44dbecf1d2104fd
-baxinho|josé jailson araújo venceslau|recreational or sports activity that is associated with a person named in the context|39de4cbc925e44d1b44dbecf1d2104fd
-babidi|efraim silva de oliveira|professional title or occupation that is held by a person named in the context, such as CARRAPICHO and ANDSON BARBOSA DE LIMA|39de4cbc925e44d1b44dbecf1d2104fd
-belo matador|carlos andré dos santos|professional title or occupation that is held by a person named in the context, such as CARRAPICHO and ANDSON BARBOSA DE LIMA|39de4cbc925e44d1b44dbecf1d2104fd
-maceió|residencial maceió i / sítio são jorge|geographic location or administrative division that is a part of the locations mentioned in the context|39de4cbc925e44d1b44dbecf1d2104fd
-santa lucia|cv|administrative division or geographic region that is a part of the location mentioned in the context and contains CV|39de4cbc925e44d1b44dbecf1d2104fd
-carlos andré dos santos|belô matador|Carlos André dos Santos and Belô Matador are both mentioned in the context.|d72006a7b0684898b79c15f59715b286
-paulo sérgio marques filho|vaqueiro|Paulo Sérgio Marques Filho is a vaqueiro (cowboy) as per the context.|d72006a7b0684898b79c15f59715b286
-jailson de farías|tesouro|Jailson de Farías is a tesouro (treasurer) in this context.|d72006a7b0684898b79c15f59715b286
-taiane regina da silva|thay|Taiane Regina da Silva has the role of thay (distributor/logistics) as mentioned in the context.|d72006a7b0684898b79c15f59715b286
-josé cláudio da silva filho|ninho rafamé|As per the given context, José Cláudio da Silva Filho is related to Ninho Rafamé.|d72006a7b0684898b79c15f59715b286
-renandso reynaldo queiroz|massegueira|As per the context provided, Renandso Reynaldo Queiroz and Massegueira both appear in it.|d72006a7b0684898b79c15f59715b286
-lucas ronaldo vicente ferreira dos santos|ratão ou chiná|As per the context provided, Lucas Ronaldo Vicente Ferreira dos Santos is associated with Ratão ou Chiná.|d72006a7b0684898b79c15f59715b286
-matheus antônio nogueira dos santos|xeque mate|As per the given context, Xeque Mate and Matheus Antônio Nogueira dos Santos both appear in it.|d72006a7b0684898b79c15f59715b286
-silvestre santos da silva|tubarão/tubarão da vm/ tubarão da vm 03|As per the context, Silvestre Santos da Silva is associated with Tubarão/Tubarão da VM/ Tubarão da VM 03.|d72006a7b0684898b79c15f59715b286
-thairon maxuéll ferreira da silva|josé nunes|According to the given context, Thairon Maxuéll Ferreira da Silva and José Nunes both appear in it.|d72006a7b0684898b79c15f59715b286
-josé venâncio da conceição ramalho|quilombo|As per the context provided, Quilombo and José Venâncio da Conceição Ramalho both appear in it.|d72006a7b0684898b79c15f59715b286
-maksuel cosmo dos santos silva|chapa|As per the given context, Chapa and Maksuel Cosmo dos Santos Silva are related to each other.|d72006a7b0684898b79c15f59715b286
-mateusinho|pcc|Mateusinho is a member of the PCC organization|a62acdc186524e9296878a97bb611f25
-carlos eliwilton dos santos portela|barra nova|Carlos Eliwilton dos Santos Portela operates in Barra Nova|a62acdc186524e9296878a97bb611f25
-maria de fátima alves dos santos|distribuidor/logística|Maria de Fátima Alves dos Santos works in the distribution and logistics industry|a62acdc186524e9296878a97bb611f25
-gilson silva sobrinho|erick ferraza - marechal de odoró|Gilson Silva Sobrinho is subordinate to Erick Ferraza at Marechal de Odoró|a62acdc186524e9296878a97bb611f25
-raianne santos de melo|erick ferraza - marechal de odoró|Raianne Santos de Melo is associated with Erick Ferraza at Marechal de Odoró|a62acdc186524e9296878a97bb611f25
-carlos correia de melo filho|centro - marechal de odoró|Carlos Correia de Melo Filho is connected to the Center at Marechal de Odoró|a62acdc186524e9296878a97bb611f25
-ebson da silva santos|turino/torino/binho|Ebson da Silva Santos uses Turino, Torino or Binho|a62acdc186524e9296878a97bb611f25
-maxsuel lima santos|m2/ menor/ cão miúdo/ neném|Maxsuel Lima Santos refers to M2, menor, cão miúdo or neném|a62acdc186524e9296878a97bb611f25
-thiago augusto vasconcelos dos santos|vale do reginaldo|Thiago Augusto Vasconcelos dos Santos is associated with Vale do Reginaldo|a62acdc186524e9296878a97bb611f25
-cláudio luiz da silva costa|kadu|Cláudio Luiz da Silva Costa works for KADU|a62acdc186524e9296878a97bb611f25
-carlos henrique bastos araújo|carlinhos|Carlos Henrique Bastos Araújo is known as Carlinhos|a62acdc186524e9296878a97bb611f25
-alexandre de farías barros santos filho|pató|Alexandre de Farías Barros Santos Filho is referred to as Pató|a62acdc186524e9296878a97bb611f25
-alexandro de farias barros santos filho|barra nova|ALEXANDRO DE FARIAS BARROS SANTOS FILHO is located in BARRA NOVA|c9a591cee08442888b5eb897f5f96eda
-isaac cardoso dorta|maceio|ISAAC CARDOSO DORTA is located in MACEIO|c9a591cee08442888b5eb897f5f96eda
-diogo santos da silva|penedo|DIOGO SANTOS DA SILVA operates in PENEDO|c9a591cee08442888b5eb897f5f96eda
-josé randerson olveira santos|11º bpm|JOSÉ RANDERSON OLVEIRA SANTOS is associated with 11º BPM|c9a591cee08442888b5eb897f5f96eda
-robson santos da silva|são miguel dos campos|ROBSON SANTOS DA SILVA is located in SÃO MIGUEL DOS CAMPOS|c9a591cee08442888b5eb897f5f96eda
-daiane franciele da silva|dom constantino|DAIANE FRANCIELE DA SILVA works at DOM CONSTANTINO|c9a591cee08442888b5eb897f5f96eda
-danilo lúcio santos araújo|dl|DANILO LÚCIO SANTOS ARAÚJO is known as DL|c9a591cee08442888b5eb897f5f96eda
-luan pereira da silva|manoel teles|LUAN PEREIRA DA SILVA works for MANOEL TELES|c9a591cee08442888b5eb897f5f96eda
-carlos messias dos santos|manoel teles|CARLOS MESSIAS DOS SANTOS works for MANOEL TELES|c9a591cee08442888b5eb897f5f96eda
-eduardo danilo teixeira de morais|al|EDUARDO DANILO TEIXEIRA DE MORAIS resides in AL|c9a591cee08442888b5eb897f5f96eda
-daniel augusto gomes|al|DANIEL AUGUSTO GOMES operates in AL|c9a591cee08442888b5eb897f5f96eda
-alisson victor felix dos santos|manoel teles|ALISSON VICTOR FELIX DOS SANTOS works for MANOEL TELES|c9a591cee08442888b5eb897f5f96eda
+kayo nascimento de magalhães|clima bom/fronteira|located in or near KAYO NASCIMENTO DE MAGALHÃES with a good climate|18f9dc7573d5473ca9719ffc430ac9f5
+kayo nascimento de magalhães|cabra|located in or near KAYO NASCIMENTO DE MAGALHÃES with a place named CABRA|18f9dc7573d5473ca9719ffc430ac9f5
+josé mariano dos santos|braço direito|has the role of BRAÇO DIREITO as JOSÉ MARIANO DOS SANTOS|18f9dc7573d5473ca9719ffc430ac9f5
+givaldo barbosa de frança|quinzinho|is the leader or chief of QUINZINHO as GIVALDO BARBOSA DE FRANÇA|18f9dc7573d5473ca9719ffc430ac9f5
+josé erivaldo da paz|índio|is the leader or chief of ÍNDIO as JOSÉ ERIVALDO DA PAZ|18f9dc7573d5473ca9719ffc430ac9f5
+lucas manoel da silva|projeto|is involved in PROJETO as LUCAS MANOEL DA SILVA|18f9dc7573d5473ca9719ffc430ac9f5
+victor emanuel oliveira dos santos|vulgo da cruz|is part of VULGO DA CRUZ as VICTOR EMANUEL OLIVEIRA DOS SANTOS|18f9dc7573d5473ca9719ffc430ac9f5
+givaldo barbosa de frança|clima bom, rosane collor|is located in or near CLIMA BOM with the presence of ROSANE COLLOR as GIVALDO BARBOSA DE FRANÇA|18f9dc7573d5473ca9719ffc430ac9f5
+gilvanio marcos oliveira santos|grota do cigano/ porto de pedras|is associated with GROTA DO CIGANO/ PORTO DE PEDRAS as GILVANIO MARCOS OLIVEIRA SANTOS|18f9dc7573d5473ca9719ffc430ac9f5
+derivaldo da silva santos|grota do cigano|is associated with GROTA DO CIGANO as DERIVALDO DA SILVA SANTOS|18f9dc7573d5473ca9719ffc430ac9f5
+d.n.rodrigues|lucila toledo|is a distributor or logistician for LUCILA TOLEDO as D.N.Rodrigues|18f9dc7573d5473ca9719ffc430ac9f5
+matheus silva cândido de melo|teteu/tartaruga|is the leader or chief of TETEU/TARTARUGA as MATHEUS SILVA CÂNDIDO DE MELO|18f9dc7573d5473ca9719ffc430ac9f5
+tatiane dos santos faustino|maceió i|is a leader or chief of MACEIÓ I as TATIANE DOS SANTOS FAUSTINO|18f9dc7573d5473ca9719ffc430ac9f5
+josé emerson da silva|nem catenga / jovem|is a leader or chief of NEM CATENGA / JOVEM as JOSÉ EMERSON DA SILVA|18f9dc7573d5473ca9719ffc430ac9f5
+josé emerson da silva|virgem dos pobres i, ii e ii, levada e adjacências|is a leader or chief of VIRGEM DOS POBRES I, II E II, LEVADA E ADJACÊNCIAS as JOSÉ EMERSON DA SILVA|18f9dc7573d5473ca9719ffc430ac9f5
+ni|chefe/líder|In this context, 'NI' is being used as a term for a person in charge or leader. It is related to the concept of 'Chefe/líder' as both refer to individuals who hold positions of authority.|a167528bb20246aeb7aa4d24796f3ee2
+virgem dos pobres i|virgem dos pobres i, ii e ii|In this context, 'Virgem dos pobres I' is being referred to alongside 'Virgem dos pobres I, II e II'. This indicates a possible relation between the three concepts.|a167528bb20246aeb7aa4d24796f3ee2
+jackson da silva|caco ou kakó|In this context, 'Jackson da Silva' and 'Caco ou kakó' appear together, suggesting a potential relationship between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+kayo nascemento de magalhães|cabra/99/rafinha|In this context, 'Kayo nascemento de Magalhães' is linked to 'Cabra/99/rafinha', which could imply a connection between these terms.|a167528bb20246aeb7aa4d24796f3ee2
+pedro do amaral montenegro|loteamento cascaduria|In this context, 'Pedro do Amaral Montenegro' is associated with 'Loteamento Cascaduria', implying a possible relation between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+jailson tavares de lima|tráfico de drogas na região de novo linho, campeestre, colônia leopoldina e flexeiras/al|In this context, 'Jailson Tavares de Lima' is related to 'Tráfico de drogas na região de Novo Linho, Campeestre, Colônia Leopoldina e Flexeiras/AL', suggesting a possible connection between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+jordan tavares de lima|atualmente encontra-se na cidade de novo linho/al, controlando o tráfico nestes municípios.|In this context, 'Jordan Tavares de Lima' is associated with 'Atualmente encontra-se na cidade de Novo Linho/AL, controlando o tráfico nestes municípios.', indicating a possible relationship between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+luciano da silva pereira|marechal deodoró|In this context, 'Luciano da Silva Pereira' is related to 'Marechal deodoró', suggesting a possible connection between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+paulo dos santos|bara de são miguel|In this context, 'Paulo dos Santos' is linked to 'Bara de São Miguel', implying a possible relationship between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+fabiano da silva pereira|ninho da cical|In this context, 'Fabiano da Silva Pereira' is associated with 'Ninho da Cical', indicating a possible connection between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+jefferson thyagó viana leite|escadinha (virgem dos pobres i)|In this context, 'Jefferson Thyagó Viana Leite' is related to 'Escadinha (Virgem dos pobres I)', suggesting a possible connection between the two concepts.|a167528bb20246aeb7aa4d24796f3ee2
+escadinha (virgem dos pobres i)|levada, virgem dos pobres i, ii e iii|located in|24da9f5333c9439299d1dab86147ebd1
+bairro taperaguá - marechal deodoro|rua santo antonio|part of or adjacent to|24da9f5333c9439299d1dab86147ebd1
+jonatan david da silva costa|david dos santos pereira|both are residents in the area|24da9f5333c9439299d1dab86147ebd1
+fabiano da silva oliveira|marlen cabral|both are involved with PCC (Comando Vermelho) in the area|24da9f5333c9439299d1dab86147ebd1
+luan matheus de almeida santos|jose lucas de almeida santos|both are residents involved with PCC (Comando Vermelho) and TRÁFICO in the area|24da9f5333c9439299d1dab86147ebd1
+paulo victor pereira|jardineira e adjascencias|located in or near|24da9f5333c9439299d1dab86147ebd1
+tarlisson de araujo silva santos|pcc|both are involved with PCC (Comando Vermelho) in the area|24da9f5333c9439299d1dab86147ebd1
+gilvanderson da silva berto dos santos|clima bom|both are present during good weather conditions|24da9f5333c9439299d1dab86147ebd1
+maria esanikessia pereira de souza|village campestre|located in or near|24da9f5333c9439299d1dab86147ebd1
+claudemir lucas peixoto venâncio|por todo clima bom|both are present during good weather conditions|24da9f5333c9439299d1dab86147ebd1
+alex bruno soares de mendonca|conjunto village campestre ii|located in or near|24da9f5333c9439299d1dab86147ebd1
+escadinha (virgem dos pobres i)|levada, virgem dos pobres i, ii e iii|both are part of the same project for helping poor communities|24da9f5333c9439299d1dab86147ebd1
+gerente|jefferson da silva santos|both have leadership roles in their respective areas|24da9f5333c9439299d1dab86147ebd1
+chefe/líder|alex bruno soares de mendonca|both have leadership roles within their communities|24da9f5333c9439299d1dab86147ebd1
+chacal|renato emanuel de melo|both have a criminal background and are involved with PCC (Comando Vermelho)|24da9f5333c9439299d1dab86147ebd1
+village campestre|conjunto village campestre ii|both are locations|1f25540ca7db49fe941358dce11ab0c1
+alex bruno soares de mendonca|leleco|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+jose fernando de oliveira leite|manchinha|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+everaldo alexandre da silva filho|china|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+cleiton tiago sérgio da silva|pcc|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+alisson da silva ramos|gibi|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+caiuo gabriel dos santos silva|gringo|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+anderson rodrigo da silva souza|gringo|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+alexandre verçosa dos santos junior|panela|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+breno gomes de oliveira|lima|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+eduardo henrique gomes da silva|pcc|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+jose maciel silva de oliveira|iel|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+cleiton primeiro dos santos|tuita|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+alyx tarciano conceição pereira||cannot extract relationship from this context|1f25540ca7db49fe941358dce11ab0c1
+gilvan inácio da silva|van, coroa e careca|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+lucas antônio farias lima|lukinhas|both are from extracted ontology, relationship not specified|1f25540ca7db49fe941358dce11ab0c1
+anderson rodrigo da silva souza|de boa e gringo|ANDERSON RODRIGO DA SILVA SOUZA is related to DE BOA E GRINGO in the given context|1db70cc186394a46a0d97571d7d61560
+lucas antônio farias lima|lukinhas|LUCAS ANTÔNIO FARIAS LIMA is related to LUKINHAS in the given context|1db70cc186394a46a0d97571d7d61560
+henrique firmino da silva|das trevas|HENRIQUE FIRMINO DA SILVA is related to DAS TREVAS in the given context|1db70cc186394a46a0d97571d7d61560
+lucas daniel da silva fernandes|lukinhas|LUCAS DANIEL DA SILVA FERNANDES is related to LUKINHAS in the given context|1db70cc186394a46a0d97571d7d61560
+fagner tawan dionízio da silva de lima|tawan|FAGNER TAWAN DIONÍZIO DA SILVA DE LIMA is related to TAWAN in the given context|1db70cc186394a46a0d97571d7d61560
+juvenal da silva|chita|JUVENAL DA SILVA is related to CHITA in the given context|1db70cc186394a46a0d97571d7d61560
+josé ricardo simião lins|ricardo marchante|JOSÉ RICARDO SIMIÃO LINS is related to RICARDO MARCHANTE in the given context|1db70cc186394a46a0d97571d7d61560
+jerlysson gomes dos santos|novinho|JERLYSSON GOMES DOS SANTOS is related to NOVINHO in the given context|1db70cc186394a46a0d97571d7d61560
+jedeson gomes dos santos|gasparzinho e galeguinho do cadoz|JEDESON GOMES DOS SANTOS is related to GASPARZINHO E GALEGUINHO DO CADOZ in the given context|1db70cc186394a46a0d97571d7d61560
+everton firmino da silva|foleu|EVERTON FIRMINO DA SILVA is related to FOLEU in the given context|1db70cc186394a46a0d97571d7d61560
+jonathan da silva lima|novato|JONATHAN DA SILVA LIMA is related to NOVATO in the given context|1db70cc186394a46a0d97571d7d61560
+michael douglas de souza santos|maico douglas; gaspar; |MICHAEL DOUGLAS DE SOUZA SANTOS is related to MAICO DOUGLAS; GASPAR; in the given context|1db70cc186394a46a0d97571d7d61560
+sandavid lourenço da silva|vicosa|SANDAVID LOURENÇO DA SILVA is related to VICOSA in the given context|1db70cc186394a46a0d97571d7d61560
+marcelo laurentino dos santos|fantasma ou piu piu|MARCELO LAURENTINO DOS SANTOS is related to FANTASMA OU PIU PIU in the given context|1db70cc186394a46a0d97571d7d61560
+ailton da silva filho|favela dandara|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+carlos andré dos santos|favela dandara|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+taniel bezerra da silva|favela dandara|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+denilson ferreira barbosa|gemeos|sibling relationship|f6edb33f1e9c415a900feb72bc57fa9d
+jadilson ferreira barbosa|gemeos|sibling relationship|f6edb33f1e9c415a900feb72bc57fa9d
+jessica tammyres viana leite|ni|employee or staff member of|f6edb33f1e9c415a900feb72bc57fa9d
+vergel do lago, levada e ponta grossa|nayran araújo guerreiro de jesus|employee or staff member of|f6edb33f1e9c415a900feb72bc57fa9d
+michel emerson da silva|levada e prado|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+josé ronaldo da silva santos|coroa|owner or possessor of|f6edb33f1e9c415a900feb72bc57fa9d
+maxwell horácio dos santos|massagueira/marechal deodoro|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+rogemerson silva dos santos|marechal deodoro|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+leonardo da silva santos rodrigues|marechal deodoro|resident of or located in|f6edb33f1e9c415a900feb72bc57fa9d
+ana thalita da silva|massagueira - marechal deodoro|employee or staff member of|f6edb33f1e9c415a900feb72bc57fa9d
+ailton da silva filho|chief executive officer (ceo) or managing director|job position held by|f6edb33f1e9c415a900feb72bc57fa9d
+carlos andré dos santos|chief executive officer (ceo) or managing director|job position held by|f6edb33f1e9c415a900feb72bc57fa9d
+taniel bezerra da silva|chief executive officer (ceo) or managing director|job position held by|f6edb33f1e9c415a900feb72bc57fa9d
+denilson ferreira barbosa|assistant or subordinate|employee or staff member relationship|f6edb33f1e9c415a900feb72bc57fa9d
+jadilson ferreira barbosa|assistant or subordinate|employee or staff member relationship|f6edb33f1e9c415a900feb72bc57fa9d
+carlos andré dos santos|founder, owner, or partner|job position held by|f6edb33f1e9c415a900feb72bc57fa9d
+jadilson ferreira barbosa|assistant or subordinate|employee or staff member relationship|f6edb33f1e9c415a900feb72bc57fa9d
+michel emerson da silva|residential area or neighborhood|location in|f6edb33f1e9c415a900feb72bc57fa9d
+leonardo da silva santos rodrigues|residential area or neighborhood|location in|f6edb33f1e9c415a900feb72bc57fa9d
+ana thalita da silva|employer or company|employed by or working for|f6edb33f1e9c415a900feb72bc57fa9d
+maxwell horácio dos santos|residential area or neighborhood|location in|f6edb33f1e9c415a900feb72bc57fa9d
+ni|gabriel gomes da silva|Soldado do tráfico|036d8ec6bd7043c3b7db2bf3c497194a
+ni|wilson luiz dos santos da silva|Soldado do tráfico|036d8ec6bd7043c3b7db2bf3c497194a
+josé igor da conceição|ni|Soldado do tráfico|036d8ec6bd7043c3b7db2bf3c497194a
+melquisedeck estevão dos santos|ni|Soldado do tráfico|036d8ec6bd7043c3b7db2bf3c497194a
+arabidala rodrigues da silva|bidalá|Vendedor|036d8ec6bd7043c3b7db2bf3c497194a
+carlos daniel felix da silva|ni|Soldado do tráfico|036d8ec6bd7043c3b7db2bf3c497194a
+leanderson de araújo nunes|ni|Vendedor|036d8ec6bd7043c3b7db2bf3c497194a
+charles miller galvão cavaleiro|maria jose galvão cavaleiro|Vendedor|036d8ec6bd7043c3b7db2bf3c497194a
+taisa maria da silva santos|cv|Chefe/líder|036d8ec6bd7043c3b7db2bf3c497194a
+marcel josé da silva|cabelo|CV|036d8ec6bd7043c3b7db2bf3c497194a
+olivaval rozendo da silva filho|cv|Soldado do tráfico|036d8ec6bd7043c3b7db2bf3c497194a
+ni|charles miller galvão cavaleiro|Vendedor|036d8ec6bd7043c3b7db2bf3c497194a
+maria jose galvão cavaleiro|charles miller galvão cavaleiro|Núpcio|036d8ec6bd7043c3b7db2bf3c497194a
+joão leão|marechal deodoro|Al|036d8ec6bd7043c3b7db2bf3c497194a
+maceió e joaquim gomes|al||036d8ec6bd7043c3b7db2bf3c497194a
+tabaileiro|olivaval rozendo da silva filho|Maceió|036d8ec6bd7043c3b7db2bf3c497194a
+al|maceió e joaquim gomes|cidade de Maceió e Joaquim Gomes|d1de760d65754b3f9841ee517867254e
+olivival rozenendo da silva filho|a conceito extraído da ontologia||d1de760d65754b3f9841ee517867254e
+agnaldo josé da silva júnior|juninho ou simpatia||d1de760d65754b3f9841ee517867254e
+williams araújo vicentes|kinha||d1de760d65754b3f9841ee517867254e
+alan ângelo da silva|baiano||d1de760d65754b3f9841ee517867254e
+andson barbosa de lima|carrapicho||d1de760d65754b3f9841ee517867254e
+rafael viana da silva|rafa||d1de760d65754b3f9841ee517867254e
+deyvid nilton coelho vargas|goiânio||d1de760d65754b3f9841ee517867254e
+pedro soares marques|pedrinho||d1de760d65754b3f9841ee517867254e
+joab antônio da silva|gongonha||d1de760d65754b3f9841ee517867254e
+josivaldo vicente da silva|mô||d1de760d65754b3f9841ee517867254e
+efrain silva de oliveira|babidi||d1de760d65754b3f9841ee517867254e
+carlos andré dos santos|beló matador||d1de760d65754b3f9841ee517867254e
+itala maria de jesus silva|||d1de760d65754b3f9841ee517867254e
+cidade universitária|cidade universitária e joaquim gomes||d1de760d65754b3f9841ee517867254e
+residencial maceió i / sítio são jorge|maceió||d1de760d65754b3f9841ee517867254e
+conjunto são caetano|maceió e joaquim gomes||d1de760d65754b3f9841ee517867254e
+santa lucia|carlos andré dos santos||d1de760d65754b3f9841ee517867254e
+olivival rozenendo da silva filho|a conceito extraído da ontologia e santa lucia||d1de760d65754b3f9841ee517867254e
+williams araújo vicentes|kinha e olival rozenendo da silva filho||d1de760d65754b3f9841ee517867254e
+alan ângelo da silva|baiano e olival rozenendo da silva filho||d1de760d65754b3f9841ee517867254e
+andson barbosa de lima|carrapicho e santa lucia||d1de760d65754b3f9841ee517867254e
+rafael viana da silva|rafa e maceió||d1de760d65754b3f9841ee517867254e
+deyvid nilton coelho vargas|goiânio e santa lucia||d1de760d65754b3f9841ee517867254e
+pedro soares marques|pedrinho e maceió||d1de760d65754b3f9841ee517867254e
+josivaldo vicente da silva|mô e cidade universitária||d1de760d65754b3f9841ee517867254e
+efrain silva de oliveira|babidi e santa lucia||d1de760d65754b3f9841ee517867254e
+carlos andré dos santos|belô matador|Extracted ontology shows that Carlos André dos Santos and Belô Matador are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+paulo sérgio marques filho|vaquejiro|Extracted ontology shows that Paulo Sérgio Marques Filho and Vaquejiro are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+jailson de farías|tesouro|Extracted ontology shows that Jailson de Farías and Tesouro are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+taiane regina da silva|thay|Extracted ontology shows that Taiane Regina da Silva and Thay are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+josé cláudio da silva filho|ninho rafamé|Extracted ontology shows that José Cláudio da Silva Filho and Ninho Rafamé are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+renandso reynaldo queiroz|massageira|Extracted ontology shows that Renandso Reynaldo Queiroz and Massageira are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+lucas ronaldo vicente ferreira dos santos|ratao ou china|Extracted ontology shows that Lucas Ronaldo Vicente Ferreira dos Santos and Ratao ou China are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+silvestre santos da silva|tubarão/tubarão da vm/ tubarão da vm 03|Extracted ontology shows that Silvestre Santos da Silva and Tubarão/Tubarão da VM/ Tubarão da VM 03 are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+thaíron maxuél ferreira da silva|josé nunes|Extracted ontology shows that Thaíron Maxuél Ferreira da Silva and José Nunes are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+josé venâncio da conceição ramalho|x-x-x-x|Extracted ontology shows that José Venâncio da Conceição Ramalho and X-X-X-X are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+maksuel cosmo dos santos silva|chapa|Extracted ontology shows that Maksuel Cosmo dos Santos Silva and Chapa are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+carlos andré dos santos|coruripe-al|Extracted ontology shows that Carlos André dos Santos and Coruripe-AL are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+paulo sérgio marques filho|quilombo|Extracted ontology shows that Paulo Sérgio Marques Filho and Quilombo are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+jailson de farías|alto de são marcos|Extracted ontology shows that Jailson de Farías and Alto de São Marcos are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+lucas ronaldo vicente ferreira dos santos|barra de são miguel|Extracted ontology shows that Lucas Ronaldo Vicente Ferreira dos Santos and Barra de São Miguel are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862
+silvestre santos da silva|barra de são miguel|Extracted ontology shows that Silvestre Santos da Silva and Barra de São Miguel are related concepts in the given context. The relation between them can be found in the text.|6f491aa480e948a7806645c2a1a02862

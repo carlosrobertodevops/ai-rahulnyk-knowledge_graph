@@ -216,7 +216,7 @@ CHEFE/LÍDER
 
 
 
-VIRGEM DOS POBRES I, II E II, LEVADA E ADJACÊNCIAS"|data_input/faccionados/analises_vinculos.csv|d151b934ab1f47ad928d70f924612e9b
+VIRGEM DOS POBRES I, II E II, LEVADA E ADJACÊNCIAS"|data_input/faccionados/faccionados_analise_vinculo.csv|18f9dc7573d5473ca9719ffc430ac9f5
 "NI
 CHEFE/LÍDER
 
@@ -376,7 +376,7 @@ GERENTE
 
 
 
-ESCADINHA (VIRGEM DOS POBRES I)"|data_input/faccionados/analises_vinculos.csv|34bef06266d841cba09e57e80e6e60b5
+ESCADINHA (VIRGEM DOS POBRES I)"|data_input/faccionados/faccionados_analise_vinculo.csv|a167528bb20246aeb7aa4d24796f3ee2
 "ESCADINHA (VIRGEM DOS POBRES I)
 
 
@@ -586,7 +586,7 @@ CHEFE/LÍDER
 
 
 
-CONJUNTO VILLAGE CAMPESTRE II"|data_input/faccionados/analises_vinculos.csv|9d937d1d32fe4fd4a30bc4329d9e7437
+CONJUNTO VILLAGE CAMPESTRE II"|data_input/faccionados/faccionados_analise_vinculo.csv|24da9f5333c9439299d1dab86147ebd1
 "VILLAGE CAMPESTRE
 
 
@@ -781,7 +781,7 @@ CLIMA BOM
 LUCAS ANTÔNIO FARIAS LIMA
 LUKINHAS
 NI
-GERENTE"|data_input/faccionados/analises_vinculos.csv|257ce537beed4a9f8e4dabcc8d8262e3
+GERENTE"|data_input/faccionados/faccionados_analise_vinculo.csv|1f25540ca7db49fe941358dce11ab0c1
 "67
 ANDERSON RODRIGO DA SILVA SOUZA
 DE BOA E GRINGO
@@ -984,7 +984,7 @@ VIÇOSA
 MARCELO LAURENTINO DOS SANTOS
 FANTASMA OU PIU PIU
 NI
-CHEFE/LÍDER"|data_input/faccionados/analises_vinculos.csv|416c49fb14e14b559ab6d98984f50f17
+CHEFE/LÍDER"|data_input/faccionados/faccionados_analise_vinculo.csv|1db70cc186394a46a0d97571d7d61560
 "84
 SANDAVID LOURENÇO DA SILVA
 SANDAVID
@@ -1180,7 +1180,7 @@ CHEFE/LÍDER
 
 
 
-FAVELA DANDARA"|data_input/faccionados/analises_vinculos.csv|1828ea4917a84bd9983984e66f946685
+FAVELA DANDARA"|data_input/faccionados/faccionados_analise_vinculo.csv|faea2f4f40bd499495ee694c561ec880
 "100
 AILTON DA SILVA FILHO
 CABEÇA OU CARECA
@@ -1365,7 +1365,7 @@ VENDEDOR
 
 
 
-CLIMA BOM (PRINCIPALMENTE ROSANE COLLOR E COLIBRI)"|data_input/faccionados/analises_vinculos.csv|5c25cf2f9d26439d990bfd004c0c1ef5
+CLIMA BOM (PRINCIPALMENTE ROSANE COLLOR E COLIBRI)"|data_input/faccionados/faccionados_analise_vinculo.csv|f6edb33f1e9c415a900feb72bc57fa9d
 "MASSAGUEIRA - MARECHAL DEODORO
 
 
@@ -1564,7 +1564,7 @@ SOLDADO DO TRÁFICO
 
 
 
-CLIMA BOM"|data_input/faccionados/analises_vinculos.csv|b46a4c0a42a74be5bce334fe4c3218a8
+CLIMA BOM"|data_input/faccionados/faccionados_analise_vinculo.csv|eb4d7bb2385d41cf80784b505e9bf235
 "NI
 SOLDADO DO TRÁFICO
 
@@ -1757,7 +1757,7 @@ SOLDADO DO TRÁFICO
 TABULEIRO
 MACEIÓ
 AL
-PRAIA DO FRANCÊS"|data_input/faccionados/analises_vinculos.csv|18348570fc7d403e9cf4c5e62693d7b3
+PRAIA DO FRANCÊS"|data_input/faccionados/faccionados_analise_vinculo.csv|036d8ec6bd7043c3b7db2bf3c497194a
 "AL
 MACEIÓ E JOAQUIM GOMES
 
@@ -1913,7 +1913,7 @@ GERENTE
 SANTA LUCIA
 MACEIÓ
 AL
-RESIDENCIAL MACEIÓ I / SÍTIO SÃO JORGE"|data_input/faccionados/analises_vinculos.csv|39de4cbc925e44d1b44dbecf1d2104fd
+RESIDENCIAL MACEIÓ I / SÍTIO SÃO JORGE"|data_input/faccionados/faccionados_analise_vinculo.csv|d1de760d65754b3f9841ee517867254e
 "162
 CARLOS ANDRÉ DOS SANTOS
 BELO MATADOR
@@ -2043,7 +2043,7 @@ SOLDADO DO TRÁFICO
 ALTO DE SÃO MARCOS
 BARRA DE SÃO MIGUEL
 AL
-BARRA DE SÃO MIGUEL"|data_input/faccionados/analises_vinculos.csv|d72006a7b0684898b79c15f59715b286
+BARRA DE SÃO MIGUEL"|data_input/faccionados/faccionados_analise_vinculo.csv|6f491aa480e948a7806645c2a1a02862
 "173
 MAKSUEL COSMO DOS SANTOS SILVA
 CHAPA
@@ -2217,7 +2217,7 @@ CHEFE/LÍDER
 BENEDITO BENTES
 MACEIO
 AL
-CONJUNTO VALE BENTES 2"|data_input/faccionados/analises_vinculos.csv|d6c84b9d7cb44e7288537a10a30325dc
+CONJUNTO VALE BENTES 2"|data_input/faccionados/faccionados_analise_vinculo.csv|f7e6873a34ca47ffa01a6dadd5528042
 "188
 JOHN ANDERSON SANTOS DA SILVA
 JOHN
@@ -2369,7 +2369,7 @@ SOLDADO DO TRÁFICO
 DOM CONSTANTINO
 PENEDO
 AL
-11º BPM"|data_input/faccionados/analises_vinculos.csv|33a481c82ef44fdbbd1c36a6fec8ccc7
+11º BPM"|data_input/faccionados/faccionados_analise_vinculo.csv|63a84db45ae1453bb18c99a661fd3dc2
 "201
 MATEUS HENRIQUE DOS SANTOS
 MATEUSINHO
@@ -2521,7 +2521,7 @@ DISTRIBUIDOR/LOGÍSTICA
 BARRA NOVA
 MARECHAL DEODORO
 AL
-1A PONTE VALE DO REGINALDO"|data_input/faccionados/analises_vinculos.csv|a62acdc186524e9296878a97bb611f25
+1A PONTE VALE DO REGINALDO"|data_input/faccionados/faccionados_analise_vinculo.csv|f247df6aae2e4038a9920e50d9aa04ca
 "214
 ALEXANDRO DE FARIAS BARROS SANTOS  FILHO
 PATO
@@ -2684,4 +2684,4 @@ VENDEDOR
 MASSARANDUBA
 ARAPIRACA
 AL
-MANOEL TELES"|data_input/faccionados/analises_vinculos.csv|c9a591cee08442888b5eb897f5f96eda
+MANOEL TELES"|data_input/faccionados/faccionados_analise_vinculo.csv|2e6fb9b9654e48a9a0e8d2280b192b38
