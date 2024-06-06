@@ -1,27 +1,22 @@
 // RELACIONAMENTOS DOS FACCIONADOS
 // ================================
 // faccionados x faccoes (*)
+// faccionados x uncoes (*)
 // faccionados x bairros (*)
 // fafaccionadosc x cidades (*)
-// faccionados x idade
-// faccionadosac x homicidas
-// faccionadosac x estupradores
-// faccionados x assaltantes
-
-// ['nome_completo', 'vulgo_alcunha', 'faccao', 'faccao_funcao', 'bairro_atual', 'cidade_atual',
-// 'uf_atual', 'area_atuacao', 'faccao_id', 'funcao_id', 'bairro_id', 'cidade_id', 'uf_id']
+// faccionados x uf (*)
 
 LOAD CSV WITH HEADERS FROM "file:///faccionado.csv" AS row
 MERGE(faccionado:Faccionado
     {
-        nameCompleto:COALESCE(row.nome_completo,"SEM NOME"),
-        vulgoAlcunha:COALESCE(row.vulgo_alcunha,"SEM ALCUNHA"),
-        faccaoID:COALESCE(row.faccao_id,"SEM FACCAO"),
-        funcaoID:COALESCE(row.funcao_id,"SEM FUNCAO"),
-        bairroID:COALESCE(row.bairro_id,"SEM BAIRRO"),
-        cidadeID:COALESCE(row.cidade_id,"SEM CIDADE"),
-        ufID:COALESCE(row.uf_id,"SEM UF"),
-        name:COALESCE(row.nome_completo,"SEM NOME")
+        nameCompleto:row.nome_completo,
+        vulgoAlcunha:row.vulgo_alcunha,
+        faccaoID:row.faccao_id,
+        funcaoID:row.funcao_id,
+        bairroID:row.bairro_id,
+        cidadeID:row.cidade_id,
+        ufID:row.uf_id,
+        name:row.nome_completo
     }
 )
 
@@ -29,9 +24,9 @@ WITH faccionado
 LOAD CSV WITH HEADERS FROM "file:///faccao.csv" AS row
 MERGE (faccao:Faccao
     {
-        faccaoID:COALESCE(row.faccao_id,"SEM FACCAO"),
-        faccaoName:COALESCE(row.faccao,"SEM FACCAO"),
-        name:COALESCE(row.faccao,"SEM FACCAO")
+        faccaoID:row.faccao_id,
+        faccaoName:row.faccao,
+        name:row.faccao
     }
 )
 
@@ -39,9 +34,9 @@ WITH faccionado, faccao
 LOAD CSV WITH HEADERS FROM "file:///funcao.csv" AS row
 MERGE (funcao:Funcao
     {
-        funcaoID:COALESCE(row.funcao_id,"SEM FUNCAO"),
-        funcaoName:COALESCE(row.faccao_funcao,"SEM FUNCAO"),
-        name:COALESCE(row.faccao_funcao,"SEM FUNCAO")
+        funcaoID:row.funcao_id,
+        funcaoName:row.faccao_funcao,
+        name:row.faccao_funcao
     }
 )
 
@@ -49,9 +44,9 @@ WITH faccionado, faccao, funcao
 LOAD CSV WITH HEADERS FROM "file:///bairro.csv" AS row
 MERGE (bairro:Bairro
     {
-        bairroID:COALESCE(row.bairro_id,"SEM BAIRRO"),
-        bairroName:COALESCE(row.bairro_atual,"SEM BAIRRO"),
-        name:COALESCE(row.bairro_atual,"SEM BAIRRO")
+        bairroID:row.bairro_id,
+        bairroName:row.bairro_atual,
+        name:row.bairro_atual
     }
 )
 
@@ -59,9 +54,9 @@ WITH faccionado, faccao, funcao, bairro
 LOAD CSV WITH HEADERS FROM "file:///cidade.csv" AS row
 MERGE (cidade:Cidade
     {
-        cidadeID:COALESCE(row.cidade_id,"SEM CIDADE"),
-        cidadeName:COALESCE(row.cidade_atual,"SEM CIDADE"),
-        name:COALESCE(row.cidade_atual,"SEM CIDADE")
+        cidadeID:row.cidade_id,
+        cidadeName:row.cidade_atual,
+        name:row.cidade_atual
     }
 )
 
@@ -69,9 +64,9 @@ WITH faccionado, faccao, funcao, bairro, cidade
 LOAD CSV WITH HEADERS FROM "file:///uf.csv" AS row
 MERGE (uf:Uf
     {
-        ufID:COALESCE(row.uf_id,"SEM UF"),
-        ufName:COALESCE(row.uf_atual,"SEM UF"),
-        name:COALESCE(row.uf_atual,"SEM UF")
+        ufID:row.uf_id,
+        ufName:row.uf_atual,
+        name:row.uf_atual
     }
 )
 
