@@ -88,7 +88,7 @@ WHERE faccao.faccaoID=faccionado.faccaoID AND
     uf.ufID=faccionado.ufID
 
 MERGE (bairro)-[:`DO BAIRRO`]->(faccionado)<-[:`DA FACÇÃO`]->(faccao)
-MERGE (faccionado)<-[:`COM A FUNCAO`]-(funcao)
-MERGE (faccionado)<-[:`DA CIDADE`]-(cidade)
-MERGE (faccionado)<-[:`DA UF`]-(uf)
+MERGE (funcao)-[:`COM A FUNCAO`]->(faccionado)
+MERGE (cidade)-[:`DA CIDADE`]->(faccionado)
+MERGE (uf)-[:`DA UF`]->(faccionado)
 RETURN *
