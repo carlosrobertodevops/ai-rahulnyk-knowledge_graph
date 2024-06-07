@@ -9,8 +9,6 @@
 LOAD CSV WITH HEADERS FROM "file:///faccionado.csv" AS row
 MERGE(faccionado:Faccionado
     {
-        nameCompleto:row.nome_completo,
-        vulgoAlcunha:row.vulgo_alcunha,
         faccaoID:row.faccao_id,
         funcaoID:row.funcao_id,
         bairroID:row.bairro_id,
