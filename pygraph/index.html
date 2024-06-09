@@ -257,6 +257,12 @@ function highlightFilter(filter) {
              
 
              
+             #config {
+                 float: left;
+                 width: 400px;
+                 height: 600px;
+             }
+             
 
              
         </style>
@@ -271,6 +277,8 @@ function highlightFilter(filter) {
         </div>
 
         
+        
+            <div id="config"></div>
         
 
         <script type="text/javascript">
@@ -302,8 +310,8 @@ function highlightFilter(filter) {
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": 0, "label": 0, "shape": "dot"}, {"color": "#97c2fc", "id": 1, "label": 1, "shape": "dot"}, {"color": "#97c2fc", "id": 2, "label": 2, "shape": "dot"}, {"color": "#97c2fc", "id": 3, "label": 3, "shape": "dot"}, {"color": "#97c2fc", "id": 4, "label": 4, "shape": "dot"}]);
-                  edges = new vis.DataSet([{"from": 0, "to": 2}, {"from": 0, "to": 3}, {"from": 0, "to": 4}, {"from": 1, "to": 1}, {"from": 1, "to": 3}, {"from": 1, "to": 2}]);
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Acciaiuoli", "label": "Acciaiuoli", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Medici", "label": "Medici", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Barbadori", "label": "Barbadori", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Ridolfi", "label": "Ridolfi", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Tornabuoni", "label": "Tornabuoni", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Albizzi", "label": "Albizzi", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Salviati", "label": "Salviati", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Castellani", "label": "Castellani", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Peruzzi", "label": "Peruzzi", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Strozzi", "label": "Strozzi", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Bischeri", "label": "Bischeri", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Guadagni", "label": "Guadagni", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Ginori", "label": "Ginori", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Pazzi", "label": "Pazzi", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Lamberteschi", "label": "Lamberteschi", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"from": "Acciaiuoli", "to": "Medici", "width": 1}, {"from": "Medici", "to": "Barbadori", "width": 1}, {"from": "Medici", "to": "Ridolfi", "width": 1}, {"from": "Medici", "to": "Tornabuoni", "width": 1}, {"from": "Medici", "to": "Albizzi", "width": 1}, {"from": "Medici", "to": "Salviati", "width": 1}, {"from": "Castellani", "to": "Peruzzi", "width": 1}, {"from": "Castellani", "to": "Strozzi", "width": 1}, {"from": "Castellani", "to": "Barbadori", "width": 1}, {"from": "Peruzzi", "to": "Strozzi", "width": 1}, {"from": "Peruzzi", "to": "Bischeri", "width": 1}, {"from": "Strozzi", "to": "Ridolfi", "width": 1}, {"from": "Strozzi", "to": "Bischeri", "width": 1}, {"from": "Ridolfi", "to": "Tornabuoni", "width": 1}, {"from": "Tornabuoni", "to": "Guadagni", "width": 1}, {"from": "Albizzi", "to": "Ginori", "width": 1}, {"from": "Albizzi", "to": "Guadagni", "width": 1}, {"from": "Salviati", "to": "Pazzi", "width": 1}, {"from": "Bischeri", "to": "Guadagni", "width": 1}, {"from": "Guadagni", "to": "Lamberteschi", "width": 1}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });
@@ -316,7 +324,10 @@ function highlightFilter(filter) {
 
                   var options = {
     "configure": {
-        "enabled": false
+        "enabled": true,
+        "filter": [
+            "nodes"
+        ]
     },
     "edges": {
         "color": {
@@ -347,6 +358,10 @@ function highlightFilter(filter) {
                   
 
 
+                  
+                  // if this network requires displaying the configure window,
+                  // put it in its div
+                  options.configure["container"] = document.getElementById("config");
                   
 
                   network = new vis.Network(container, data, options);

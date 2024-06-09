@@ -1,0 +1,29 @@
+var options = {
+  "nodes": {
+    "borderWidth": 4,
+      "color": {
+        "background": "rgb(252,39,99,1)",
+        "highlight": {
+          "border": "rgb(129,11,233,1)"
+      },
+    }
+  }
+}
+
+const options = {
+  "nodes": {
+    "borderWidth": 4,
+    "borderWidthSelected": 6,
+    "color": {
+      "background": "rgb(252,39,99,1)",
+      "highlight": {
+        "border": "rgb(129,11,233,1)"
+    },
+    "opacity": 1,
+    "font": {
+      "size": 7,
+      "face": "tahoma"
+    },
+    "size": null
+  }
+}
